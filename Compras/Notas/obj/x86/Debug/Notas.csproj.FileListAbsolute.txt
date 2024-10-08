@@ -1,0 +1,36 @@
+c:\users\suyen\documents\visual studio 2010\Projects\Notas\Notas\bin\Debug\Notas.exe
+c:\users\suyen\documents\visual studio 2010\Projects\Notas\Notas\bin\Debug\Notas.pdb
+c:\users\suyen\documents\visual studio 2010\Projects\Notas\Notas\obj\x86\Debug\Notas.Form1.resources
+c:\users\suyen\documents\visual studio 2010\Projects\Notas\Notas\obj\x86\Debug\Notas.Properties.Resources.resources
+c:\users\suyen\documents\visual studio 2010\Projects\Notas\Notas\obj\x86\Debug\Notas.csproj.GenerateResource.Cache
+c:\users\suyen\documents\visual studio 2010\Projects\Notas\Notas\obj\x86\Debug\Notas.exe
+c:\users\suyen\documents\visual studio 2010\Projects\Notas\Notas\obj\x86\Debug\Notas.pdb
+C:\Users\Suyen\Documents\Visual Studio 2010\Projects\EJERCICIOS CON LISTAS\Notas\Notas\obj\x86\Debug\Notas.exe
+C:\Users\Suyen\Documents\Visual Studio 2010\Projects\EJERCICIOS CON LISTAS\Notas\Notas\obj\x86\Debug\Notas.pdb
+C:\Users\Suyen\Desktop\Compras\Notas\obj\x86\Debug\Notas.exe
+C:\Users\Suyen\Desktop\Compras\Notas\obj\x86\Debug\Notas.pdb
+C:\Users\Suyen\Desktop\Compras\Notas\bin\Debug\Notas.exe
+C:\Users\Suyen\Desktop\Compras\Notas\bin\Debug\Notas.pdb
+C:\Users\Suyen\Desktop\Compras\Notas\obj\x86\Debug\Notas.Form1.resources
+C:\Users\Suyen\Desktop\Compras\Notas\obj\x86\Debug\Notas.Properties.Resources.resources
+C:\Users\Suyen\Desktop\Compras\Notas\obj\x86\Debug\Notas.csproj.GenerateResource.Cache
+H:\acumulado segundo parcial\Compras\Notas\obj\x86\Debug\Notas.exe
+H:\acumulado segundo parcial\Compras\Notas\obj\x86\Debug\Notas.pdb
+H:\acumulado segundo parcial\Compras\Notas\bin\Debug\Notas.exe
+H:\acumulado segundo parcial\Compras\Notas\bin\Debug\Notas.pdb
+H:\acumulado segundo parcial\Compras\Notas\obj\x86\Debug\Notas.csprojResolveAssemblyReference.cache
+H:\acumulado segundo parcial\Compras\Notas\obj\x86\Debug\Notas.Form1.resources
+H:\acumulado segundo parcial\Compras\Notas\obj\x86\Debug\Notas.Properties.Resources.resources
+H:\acumulado segundo parcial\Compras\Notas\obj\x86\Debug\Notas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Compras\Notas\obj\x86\Debug\Notas.exe
+C:\Users\Usuario\Desktop\Compras\Notas\obj\x86\Debug\Notas.pdb
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\bin\Debug\Notas.exe.config
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\bin\Debug\Notas.exe
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\bin\Debug\Notas.pdb
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\obj\x86\Debug\Notas.csproj.AssemblyReference.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\obj\x86\Debug\Notas.Form1.resources
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\obj\x86\Debug\Notas.Properties.Resources.resources
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\obj\x86\Debug\Notas.csproj.GenerateResource.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\obj\x86\Debug\Notas.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\obj\x86\Debug\Notas.exe
+D:\PROGRAMAS\DOC\Albita Ingenieria\Ingenieria en Sistema\Compras\Notas\obj\x86\Debug\Notas.pdb
